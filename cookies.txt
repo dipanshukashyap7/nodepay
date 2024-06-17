@@ -1,3 +1,1 @@
-your nodepay cookie1|uid1
-your nodepay cookie2|uid2
-................................
+eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMjQ1NzkyMTgwMDAyMzU3MjQ4IiwiaWF0IjoxNzE4MzkwODQ2LCJleHAiOjE3MTk2MDA0NDZ9.NI9w0Fy9ALgke963HoTYN1M7AAZ3cF11O9XlInl1SshI3HuvEBecmIdnx-5cLdniMReuQaQcJ4dlIizETZb5fQ|1245792180002357248
